@@ -1,0 +1,14 @@
+﻿# Compiled Java
+*.class
+
+# IDE folders
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Ignore the entire screenshots folder
+# Keep an optional .gitkeep so the folder structure can exist in the repo
+screenshots/*
+!screenshots/.gitkeep
